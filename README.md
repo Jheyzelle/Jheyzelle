@@ -3,6 +3,8 @@
 <!--
 **Jheyzelle/Jheyzelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![birb tilt](https://user-images.githubusercontent.com/47310373/169671551-c676818c-9d2f-4e54-b46d-8f6f07434a7f.gif)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
